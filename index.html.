@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mangistau'nun Güzellikleri</title>
+    <style>
+        body { font-family: Arial, sans-serif; text-align: center; background-color: #f4f4f4; }
+        h1 { color: #333; }
+        .container { width: 80%; margin: auto; padding: 20px; background: white; box-shadow: 0px 0px 10px gray; }
+        img { width: 100%; height: auto; margin-top: 10px; border-radius: 10px; }
+        .desc { font-size: 18px; margin: 15px 0; }
+    </style>
+</head>
+<body>
+
+    <div class="container">
+        <h1>Mangistau'nun Doğal Güzellikleri</h1>
+
+        <img src="https://tse2.mm.bing.net/th?id=OIP.prtgvVVbi24o9C1uYAVaTgHaEJ&pid=Api" alt="Mangistau Fotoğraf 1">
+        <p class="desc">Mangistau'da turizm: Ünlü fotoğrafçıların bakışı, bölgenin doğal güzelliklerini ve tarihi mekanlarını öne çıkarıyor.</p>
+
+        <img src="https://tse1.mm.bing.net/th?id=OIP.6fwLME2KK81dCG--M-MknAHaE7&pid=Api" alt="Aktau">
+        <p class="desc">Aktau şehri: Hazar Denizi kıyısında, modern yapılar ve eşsiz manzaralar sunuyor.</p>
+
+        <img src="https://tse2.mm.bing.net/th?id=OIP.Y-Lu7NNeOo8PhcM25CVaxwHaE8&pid=Api" alt="Mangistau Tabiat">
+        <p class="desc">Mangistau'nun benzersiz 10 yeri: Turistik yerler, doğal oluşumlar ve tarihi mekanlar.</p>
+
+        <img src="https://tse2.mm.bing.net/th?id=OIP.BTzMyrh9XQi1_GZY5sitCwHaEK&pid=Api" alt="Mangistau Mars">
+        <p class="desc">Mangistau: Mars benzeri peyzajlar, yerel turizmin en gözde mekanlarından biri.</p>
+    </div>
+
+</body>
+</html>
